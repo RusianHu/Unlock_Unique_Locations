@@ -4,6 +4,16 @@ A mod for *Cataclysm: Dark Days Ahead* that allows globally unique locations to 
 
 一个用于《大灾变：黑暗之日》的 MOD，允许全局唯一的地点在世界生成时多次出现。
 
+## Compatibility | 兼容性
+
+**Tested on:** Experimental build `2026-02-07-0634`
+
+**测试版本：** 实验版 `2026-02-07-0634`
+
+> ⚠️ This mod is designed for experimental builds. Compatibility with stable releases is not guaranteed.
+> 
+> ⚠️ 此 MOD 专为实验版设计，不保证与稳定版兼容。
+
 ## Modified Locations | 修改的地点
 
 | ID | English Name | 中文名称 |
