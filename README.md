@@ -14,6 +14,16 @@ A mod for *Cataclysm: Dark Days Ahead* that allows globally unique locations to 
 > 
 > ⚠️ 此 MOD 专为实验版设计，不保证与稳定版兼容。
 
+## Installation | 安装
+
+Copy the `Unlock_Unique_Locations` folder to:
+
+将 `Unlock_Unique_Locations` 文件夹复制到：
+
+```
+<CDDA>/data/mods/
+```
+
 ## Modified Locations | 修改的地点
 
 | ID | English Name | 中文名称 |
