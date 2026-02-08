@@ -1,0 +1,13 @@
+{
+  "type": "MOD_INFO",
+  "id": "unlock_unique_locations",
+  "name": "Unlock Unique Locations (\u89e3\u9501\u552f\u4e00\u5730\u70b9)",
+  "authors": [
+    "Antigravity"
+  ],
+  "description": "Allows globally unique locations like the Refugee Center, Hub 01, and others to spawn multiple times in the world. \u5141\u8bb8\u96be\u6c11\u4e2d\u5fc3\u3001\u67a2\u7ebd01\u7b49\u552f\u4e00\u5730\u70b9\u5728\u4e16\u754c\u4e2d\u591a\u6b21\u751f\u6210\u3002",
+  "category": "rebalance",
+  "dependencies": [
+    "dda"
+  ]
+}
