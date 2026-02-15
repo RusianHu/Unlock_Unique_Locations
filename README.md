@@ -33,7 +33,6 @@ Copy the `Unlock_Unique_Locations` folder to:
 | `ranch_camp` | Ranch | 大型农场 |
 | `exodii_base` | Scrap Metal Encampment | 废料营地 |
 | `mil_base` | Military Base | 军事基地 |
-| `basement_hidden_lab_entrance` | Hidden Lab Entrance | 隐藏实验室入口 |
 
 ## What This Mod Does | 此 MOD 的功能
 
